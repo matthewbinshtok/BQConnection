@@ -1,8 +1,3 @@
-## Matthew Binshtok
-## Raquel Calero
-## Greg Makharian
-## Danielle Urquhart
-
 ## Presentation PDF
 To see the presentation as a PDF, <a href="https://github.com/matthewbinshtok/BQConnection/blob/master/MHC%20250%20Presentation.pdf">click here.</a>
 
