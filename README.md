@@ -8,5 +8,7 @@ The script requires a file "Subways.csv", which you can also download below.
 <br>
 <a href="https://github.com/matthewbinshtok/BQConnection/blob/master/Subways.csv">Click here </a>for the csv file.
 
-## Map of the MTA Subway System with train line added, made in Adobe Illustrator.
+## Map of the MTA Subway System with proposed light rail line added, made in Adobe Illustrator.
 To see the map as a png, <a href="https://github.com/matthewbinshtok/BQConnection/blob/master/subwaymap.png">click here.</a>
+
+## Our group would like to thank Professor Katherine St. John of Lehman College, Class ITF Kevin Ambrose, and Macaulay Honors College for organizing the "Big Data" Cross-Campus Seminar 4 class.
